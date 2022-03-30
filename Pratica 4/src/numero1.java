@@ -1,4 +1,4 @@
-import java.util.Scanner;
+/*import java.util.Scanner;
 
 public class numero1 {
 
@@ -23,3 +23,4 @@ public class numero1 {
  
 
 }
+*/
